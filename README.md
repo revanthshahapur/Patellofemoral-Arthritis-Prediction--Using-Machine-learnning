@@ -1,1 +1,1 @@
-# Patellofemoral-Arthritis-Prediction--Using-Machine-learnning
+# Patellofemoral-Arthritis-Prediction-Using-Machine-learnning
